@@ -1,5 +1,5 @@
-#ifndef PILE_H_INCLUDED
-#define PILE_H_INCLUDED
+#ifndef H
+#define H
 
 typedef struct {
 	int sommet;
